@@ -1,30 +1,94 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prawin;Data+Science+%26+AI%2FML+Engineer;Building+Multi-Agent+AI+Systems;Agentic+RAG+%7C+LangGraph+%7C+PyTorch" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Prawin%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20build%20AI%20agents%20that%20actually%20talk%20to%20each%20other&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Prawinkumar007&color=6C63FF&style=flat-square&label=Profile+Views)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](#)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square&logo=googlechrome&logoColor=white)](#)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Agentic+AI+%7C+Multi-Agent+Systems;LangGraph+%2B+RAG+%2B+PyTorch;Turning+research+papers+into+working+systems;Currently%3A+building+a+life-saving+agent+pipeline+%F0%9F%A9%B8" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Prawinkumar007&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
 </div>
 
----
+<br/>
 
-### 🧠 About Me
+## 🧬 The TL;DR
 
-- 🎓 Final-year **Data Science & AI/ML Engineering** student
-- 🤖 Deep focus on **Agentic AI** and **multi-agent system design**
-- 🔬 Currently building a capstone project: a multi-agent system for blood donor engagement, eligibility verification & retention — targeting both **strong AI placements** and a **research publication**
-- 🛠️ Ship end-to-end AI systems on lean, free-tier stacks (Groq Llama, LangGraph, ChromaDB, PyTorch, Streamlit, FastAPI)
-- 📫 Open to opportunities in **Applied AI / ML Engineering / Agentic Systems** roles
+```python
+class Prawin:
+    def __init__(self):
+        self.role = "Final-year Data Science & AI/ML Engineer"
+        self.obsession = "Agentic AI — agents that plan, critique, and act"
+        self.currently_building = "Multi-agent blood donor engagement + eligibility system"
+        self.stack = ["LangGraph", "Groq Llama 3.1", "ChromaDB", "PyTorch", "FastAPI"]
+        self.goals = ["Land a top AI/ML role", "Publish at a recognized venue"]
 
----
+    def philosophy(self):
+        return "Ship it on a free-tier stack. Make it defensible in a paper."
+```
 
-### ⚙️ Tech Stack
+<br/>
+
+## 🚀 What I'm Building Right Now
+
+> A multi-agent system that verifies blood donor eligibility, matches rare blood types in emergencies, and keeps donors coming back — with a full explainability layer so every agent decision can be audited. Reusing a critic-agent orchestration pattern I built for an earlier RAG project, grounded in current clinical review literature.
+
+**Why it's fun:** it's not a chatbot wrapper — it's five-plus agents arguing, verifying, and reaching consensus before anything touches a real decision.
+
+<br/>
+
+## 🛠️ Featured Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩸 Blood Donor Agentic System
+Multi-agent LangGraph pipeline for eligibility verification, rare blood-type emergency matching & retention — with explainable decisions.
+<br/>`LangGraph` `Groq Llama` `ChromaDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ AI-Powered Security Risk Monitoring
+Real-time behavior monitoring platform that scores risk dynamically and fires intelligent, policy-aware alerts.
+<br/>`Python` `ML` `Real-time Scoring`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 SmartFlow — Traffic Intelligence
+Streams live road incidents through Kafka into Snowflake for real-time smart-city analytics at scale.
+<br/>`Kafka` `PostgreSQL` `Snowflake`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Agentic Predictive Intelligence
+ML regression models orchestrated by agents to deliver predictions through a production-style inference pipeline.
+<br/>`PyTorch` `Agent Orchestration`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>👉 pinned repos above — full list on my [repositories tab](https://github.com/Prawinkumar007?tab=repositories)</sub>
+
+</div>
+
+<br/>
+
+## ⚙️ Arsenal
 
 <div align="center">
 
@@ -41,58 +105,35 @@
 
 </div>
 
----
+<br/>
 
-### 🚀 Featured Projects
+## 📈 The Numbers
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🩸 Blood Donor Engagement & Eligibility System**
-Multi-agent LangGraph pipeline for donor eligibility verification, rare blood-type emergency matching, and retention — grounded in current clinical review literature, with an explainability layer.
-
-</td>
-<td width="50%" valign="top">
-
-**🛡️ AI-Powered Security Risk Monitoring**
-Modular AI platform that monitors user behavior in real time, computes dynamic risk scores, enforces policy, and raises intelligent alerts.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🚦 SmartFlow — Traffic Intelligence Platform**
-Real-time smart-city traffic pipeline using Kafka, Python, PostgreSQL, and Snowflake to stream live road incidents into a cloud warehouse for scalable analytics.
-
-</td>
-<td width="50%" valign="top">
-
-**📊 Agentic Predictive Intelligence**
-Hybrid system combining ML regression models with agent-based orchestration to deliver intelligent predictions through a Python inference pipeline.
-
-</td>
-</tr>
-</table>
-
----
-
-### 📈 GitHub Stats
+<!--
+  NOTE: Deploy your own free instance so these never break from shared rate limits:
+  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+  Then swap YOUR-STATS-DOMAIN below.
+-->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prawinkumar007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prawinkumar007&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prawinkumar007&theme=tokyonight&hide_border=true" width="60%" />
+<img src="https://YOUR-STATS-DOMAIN.vercel.app/api?username=Prawinkumar007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" width="49%" />
+<img src="https://YOUR-STATS-DOMAIN.vercel.app/api/top-langs/?username=Prawinkumar007&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="30%" />
 
 </div>
 
----
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prawinkumar007&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-*Building AI agents that reason, verify, and act — one repo at a time.*
+### 💭 If an agent can verify it, I'd rather not do it by hand.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
