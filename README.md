@@ -43,38 +43,54 @@ class Prawin:
 
 <br/>
 
-## 🛠️ Featured Builds
+## 🛠️ Top Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🩸 Blood Donor Agentic System
-Multi-agent LangGraph pipeline for eligibility verification, rare blood-type emergency matching & retention — with explainable decisions.
-<br/>`LangGraph` `Groq Llama` `ChromaDB`
+### 🏏 [Proteas RAG Analytics](https://github.com/Prawinkumar007/proteas-SouthAfrica-rag-analytics)
+An AI cricket analyst for the South Africa national team — RAG over 72,000+ ball-by-ball events, answers tactical questions in plain English. **[Live demo →](https://proteas-southafrica-rag-analytics.streamlit.app)**
+<br/>`FAISS` `Groq LLaMA 3.3` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ AI-Powered Security Risk Monitoring
-Real-time behavior monitoring platform that scores risk dynamically and fires intelligent, policy-aware alerts.
-<br/>`Python` `ML` `Real-time Scoring`
+### 🛡️ [AI Agent Security Firewall v2.0](https://github.com/Prawinkumar007/AI-Powered-Intelligent-Security-Risk-Monitoring-System)
+Zero Trust middleware sitting between LLM agents and protected systems — parses every action, scores risk, and blocks anything that violates policy before it executes.
+<br/>`FastAPI` `WebSockets` `Zero Trust`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 SmartFlow — Traffic Intelligence
+### 🚦 [SmartFlow — Traffic Intelligence](https://github.com/Prawinkumar007/smartcity-traffic-weather-kafka-snowflake)
 Streams live road incidents through Kafka into Snowflake for real-time smart-city analytics at scale.
 <br/>`Kafka` `PostgreSQL` `Snowflake`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Agentic Predictive Intelligence
+### 📊 [Agentic Predictive Intelligence](https://github.com/Prawinkumar007/Agentic-Predictive-Intelligence)
 ML regression models orchestrated by agents to deliver predictions through a production-style inference pipeline.
 <br/>`PyTorch` `Agent Orchestration`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [ECLAT Market Basket Optimization](https://github.com/Prawinkumar007/ECLAT-Market-Basket-Optimization)
+Vertical-format frequent itemset mining for uncovering product association rules in retail transaction data.
+<br/>`Python` `Association Rule Mining`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [FP-Growth Market Basket Analysis](https://github.com/Prawinkumar007/FP-Growth-Market-Basket-Analysis)
+Tree-based frequent pattern mining — a faster alternative to Apriori for large-scale basket analysis.
+<br/>`Python` `Pattern Mining`
 
 </td>
 </tr>
@@ -82,7 +98,7 @@ ML regression models orchestrated by agents to deliver predictions through a pro
 
 <div align="center">
 
-<sub>👉 pinned repos above — full list on my [repositories tab](https://github.com/Prawinkumar007?tab=repositories)</sub>
+<sub>👉 currently building the blood donor agentic system (not yet public) — full repo list on my [repositories tab](https://github.com/Prawinkumar007?tab=repositories)</sub>
 
 </div>
 
